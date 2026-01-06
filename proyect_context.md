@@ -9,7 +9,7 @@ El MVP se compone de dos piezas principales:
 - la fuente de datos de productos se ubica en el excel :
 https://docs.google.com/spreadsheets/d/1TQXwskKWUQ3NQnXcVx4pE1Zpxtu8tns9/edit?gid=1620448077#gid=1620448077
 
-- el e-commerce corresponde al proyecto front en el directorio e-commerce
+- el e-commerce corresponde al proyecto front en el directorio e-commerce, esta listo no hacer modificaciones.
 
 2) Agente de control de stock (n8n local):
 - Recibe por correo un documento adjunto (foto o PDF) con una orden de compra o entrada de productos.
